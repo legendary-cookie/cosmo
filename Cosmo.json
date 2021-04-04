@@ -24,13 +24,13 @@
       "url": "https://launcher.mojang.com/v1/objects/5143618265b8a2d1d28bcadf206b7327738c2670/windows_server.exe"
     }
   },
-  "id": "Hyperium 1.8.9",
+  "id": "Cosmo",
   "libraries": [
     {
       "name": "net.minecraft:launchwrapper:1.12"
     },
     {
-      "name": "cc.hyperium:Hyperium:LOCAL"
+      "name": "com.cosmo:Cosmo:LOCAL"
     }
   ],
   "logging": {

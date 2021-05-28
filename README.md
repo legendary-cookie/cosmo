@@ -5,5 +5,5 @@ This started of as a fork of the [hyperium](https://github.com/hyperiumclient/hy
 
 # Credits:
 * Bowser0000: [Danker's Skyblock mod](https://github.com/bowser0000/SkyblockMod)
-* Some small mods from Eric Golde's discord server. Credits will be added sometime later.
+* Some small mods from Eric Golde's server. Credits will be added sometime later.
 * Symt: [Bazaar Notifier](https://github.com/symt/BazaarNotifier)

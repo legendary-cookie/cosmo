@@ -13,5 +13,5 @@ This started of as a fork of the [hyperium](https://github.com/hyperiumclient/hy
   * Several events
   * Other minor stuff
 
-Team:
+# Team:
 * [Link](https://github.com/Link4Real): Cape designer and admin

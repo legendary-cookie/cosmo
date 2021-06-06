@@ -12,4 +12,6 @@ This started of as a fork of the [hyperium](https://github.com/hyperiumclient/hy
   * Forges configuration system (Only used for porting forge mods)
   * Several events
   * Other minor stuff
+
+Team:
 * [Link](https://github.com/Link4Real): Cape designer and admin

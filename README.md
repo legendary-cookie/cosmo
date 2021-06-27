@@ -2,7 +2,7 @@
 A WIP minecraft pvp client.
 
 # Please note: HEAVILY BASED ON HYPERIUM
-This started of as a fork of the [hyperium](https://github.com/hyperiumclient/hyperium) minecraft client by [sk1er](https://sk1er.club). Nowadays, I only use their eventbus, command and config systems. 
+This started of as a fork of the [hyperium](https://github.com/hyperiumclient/hyperium) minecraft client by [sk1er](https://sk1er.club). Nowadays, I only use their eventbus, command and config systems. I will try to implement my own stuff for the eventbus (or another library dunno) and the other systems.
 
 # Credits:
 * Bowser0000: [Danker's Skyblock mod](https://github.com/bowser0000/SkyblockMod)

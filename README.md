@@ -17,4 +17,4 @@ Some elements of this client were taken from [Eric Golde](https://m.youtube.com/
   * Other minor stuff
 
 # Team:
-* [Link](https://github.com/Link4Real): Cape designer and admin
+* [Link](https://github.com/Link4Real): Random admin guy
